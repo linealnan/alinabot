@@ -1,0 +1,18 @@
+{
+  "name": "advbot",
+  "version": "1.0.0",
+  "description": "Adv bot for telegram",
+  "main": "dist/index.js",
+  "devDependencies": {
+    "node-telegram-bot-api": "latest"
+  },
+  "publishConfig": {
+    "access": "restricted"
+  },
+  "keywords": [
+    "telegram",
+    "bot"
+  ],
+  "author": "shkatov.dmitry@gmail.com",
+  "license": "UNLICENSED"
+}
